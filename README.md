@@ -1,4 +1,4 @@
-# OOP (Object Oriented Programming)
+# OOP (Object Oriented Programming) & Design Pattern 
 
 ## Overview
 This repository contains my Object-Oriented Programming (OOP) practice exercises from university life.  
